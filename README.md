@@ -12,3 +12,13 @@ Resources:
 * npm v3.9.3 (included in the Node.js windows packages)
 * PortableGit 1.9.5 https://github.com/msysgit/msysgit/releases
 * inexor-game/platform https://github.com/inexor-game/platform/tree/master/bin/windows
+
+# How to use it
+
+* Clone or download and unzip it to any directory you want. 
+* Cd to path\to\standalong_node_with_npm
+* Click to run create_hardlink_to_node_x64.cmd or create_hardlink_to_node_x86.cmd to create a node.exe hard link.
+* Click to run run_this_node.cmd to start a Windows command prompt
+* Now you can start to use node and npm inside the command window as normal.
+
+
